@@ -1,0 +1,7 @@
+[project]
+name = "adhkar-py-hajj-talbiyah-duas"
+version = "1.0.0"
+description = "Manasik Supplications Guide (Talbiyah, Tawaf, Sa'i & Arafah) (جامع أدعية المناسك والطواف والسعي ويوم عرفة)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
